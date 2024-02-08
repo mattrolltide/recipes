@@ -1,0 +1,2 @@
+##Purpose
+The purpose of this project is to test out my skills in order to see what I have learned. It will be a simple webpage with links to cooking recipes. It will probably be deleted relatively soon.
